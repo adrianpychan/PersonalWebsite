@@ -47,7 +47,7 @@ hr {
 
 body {
 	background-color: rgb(230,231,233);
-	background-image: url("../images/landing_page/bg.jpg");
+	background-image: url("/../../images/landing_page/bg.jpg");
 	background-size: cover;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
